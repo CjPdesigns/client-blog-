@@ -1,0 +1,13 @@
+@keyframes main-h2-slide { 
+     0%{ : p-slide 4.3s ease forwards;
+transform: translateX(-1000px);}
+    100%{
+transform: trannslateX(600px);}        
+    }
+
+@keyframes body-h1-slide {
+    0% {
+        transform: translateX(-1000px);}
+    100% {
+        transform: translateX(0);}
+}
